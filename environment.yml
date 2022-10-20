@@ -1,0 +1,21 @@
+name: data_sci
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python
+    - numpy
+    - scipy
+    - matplotlib
+    - pandas
+    - nb_conda
+    - jupyter
+    - seaborn
+    - scikit-learn
+    - plotly
+    - ipywidgets
+    - dash
+    - xgboost
+    - pillow
+    - pip:
+        - tensorflow
